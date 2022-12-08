@@ -1,0 +1,18 @@
+.card--section{
+    text-align: center;
+    overflow: hidden;
+    padding-bottom: 3rem;
+    background: rgb(248, 246, 246);
+}
+
+.card--pink:hover{
+    background: rgb(231, 36, 69);
+    color: rgb(223, 222, 222);
+    transition-duration: 2s;
+}
+
+.card--gray:hover{
+    color: rgb(231, 36, 69);
+    background: rgb(223, 222, 222);
+    transition-duration: 2s;
+}

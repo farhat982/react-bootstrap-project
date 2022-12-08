@@ -1,0 +1,51 @@
+.navbar{
+    background:white;
+    padding: 2rem 0;
+    font-size: 18px;
+    border-bottom: 1px solid rgb(218, 217, 217);
+}
+
+.navbar-brand {
+   color: rgb(231, 36, 69);
+   font-size: 30px;
+   font-weight: bold;
+}
+.nav-active{
+    color: rgb(231, 36, 69)!important;
+}
+.nav-link{
+    margin-right: 5rem;
+}
+
+.nav-link:hover{
+    color: rgb(231, 36, 69);
+    
+}
+
+.dropdown-item{
+    font-size: 18px;
+    padding: 1rem;
+    width: 300px;
+  
+}
+.dropdown-item:hover{
+   background: white;
+  
+}
+.dropdown-item:hover{
+    color: rgb(231, 36, 69);
+}
+
+.btn {
+    background: rgb(231, 36, 69);
+    padding:0.3rem 2rem;
+    font-size: 20px;
+    border-radius: 2rem;
+    border:1px solid rgb(231, 36, 69);
+}
+.btn:hover{
+    background: white;
+    border:1px solid rgb(231, 36, 69);
+    color: rgb(231, 36, 69);
+}
+
